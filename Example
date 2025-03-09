@@ -1,0 +1,41 @@
+ Scenario: Algorithmic Collusion in Metro Manila During Rush Hour  
+
+ Location: Metro Manila  
+ Event: Friday Evening Rush Hour (6:00 PM – 9:00 PM)  
+ Key Players:  
+1. Grab (dominant player in PH ride-hailing)  
+2. JoyRide (competes in TNVS and motorcycle taxis)  
+3. Angkas (motorcycle taxi service)  
+
+ How Algorithmic Collusion Happens:  
+
+ Step 1: Normal Pricing Before Rush Hour  
+- At 5:30 PM, fares for a Makati to Quezon City ride are:  
+  - Grab: ₱300  
+  - JoyRide: ₱280  
+  - Angkas: ₱250 (motorcycle taxi)  
+- Algorithms are independent but track competitor fares.  
+
+ Step 2: Demand Increases Due to Rush Hour  
+- At 6:00 PM, demand spikes as commuters leave work.  
+- Ride-hailing platforms increase surge pricing based on demand.  
+- Grab raises its fare to ₱400.  
+
+ Step 3: Competitor Algorithms React  
+- JoyRide's AI detects Grab's price increase and automatically adjusts fares to match.  
+- Angkas also raises fares, despite having more available motorcycles.  
+- By 6:30 PM, fares for the same Makati-Quezon City trip are:  
+  - Grab: ₱450  
+  - JoyRide: ₱440  
+  - Angkas: ₱430  
+
+ Step 4: Prices Stabilize at a High Level  
+- Even though demand fluctuates, prices remain high because:  
+  - Each platform’s AI expects competitors to keep fares high.  
+  - Drivers are now used to higher fares and refuse to accept lower-priced bookings.  
+  - Consumers have no choice but to pay inflated fares.  
+
+ Step 5: Deadweight Loss and Consumer Harm  
+- Passengers who would have taken a ride at ₱300 now refuse to book at ₱450.  
+- Some opt for jeepneys or buses, increasing congestion and reducing ride-hailing efficiency.  
+- Deadweight loss occurs because potential transactions are lost due to artificial price inflation caused by algorithmic mirroring.  
