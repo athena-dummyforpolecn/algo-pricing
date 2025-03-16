@@ -11,9 +11,9 @@
 
  Step 1: Normal Pricing Before Rush Hour  
 - At 5:30 PM, fares for a Makati to Quezon City ride are:  
-  - Grab: ₱300  
-  - JoyRide: ₱280  
-  - Angkas: ₱250 (motorcycle taxi)  
+- Grab: ₱300  
+- JoyRide: ₱280  
+- Angkas: ₱250 (motorcycle taxi)  
 - Algorithms are independent but track competitor fares.  
 
  Step 2: Demand Increases Due to Rush Hour  
@@ -31,9 +31,9 @@
 
  Step 4: Prices Stabilize at a High Level  
 - Even though demand fluctuates, prices remain high because:  
-  - Each platform’s AI expects competitors to keep fares high.  
-  - Drivers are now used to higher fares and refuse to accept lower-priced bookings.  
-  - Consumers have no choice but to pay inflated fares.  
+- Each platform’s AI expects competitors to keep fares high.  
+- Drivers are now used to higher fares and refuse to accept lower-priced bookings.  
+- Consumers have no choice but to pay inflated fares.  
 
  Step 5: Deadweight Loss and Consumer Harm  
 - Passengers who would have taken a ride at ₱300 now refuse to book at ₱450.  
